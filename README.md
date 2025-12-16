@@ -104,7 +104,7 @@
 
 ## 💼 Freelance
 <p align="center">
-  <a href="https://www.workana.com/freelancer/TU_USUARIO" target="_blank">
+  <a href="https://www.workana.com/freelancer/e95966ca2c44641798facf98093aa95c" target="_blank">
     <img src="https://img.shields.io/badge/Workana-Freelancer-00A98F?style=for-the-badge"/>
   </a>
 </p>
